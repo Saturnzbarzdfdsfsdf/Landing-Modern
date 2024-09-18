@@ -1,0 +1,9 @@
+body {
+	@include fontText($fontPoppins, $fw400, $fs16, $lh185);
+}
+
+.container {
+	max-width: 1420px;
+	margin: 0 auto;
+	padding: 0 20px;
+}

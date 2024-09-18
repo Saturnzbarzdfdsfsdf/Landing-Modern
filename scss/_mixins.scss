@@ -1,0 +1,8 @@
+@mixin fontText($fontPoppins, $fw400, $fs16, $lh185) {
+	font-family: $fontPoppins;
+	font-weight: $fw400;
+	font-size: $fs16;
+	line-height: $lh185;
+}
+
+
